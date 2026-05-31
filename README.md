@@ -212,5 +212,5 @@ Upload skin lesion image and receive:
 
 
 <p align="center">
-  <img src="./screenshots/result.png" width="850"/>
+  <img src="frontend/src/Screenshots/result.png" width="850"/>
 </p>
