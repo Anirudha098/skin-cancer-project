@@ -207,12 +207,9 @@ Upload skin lesion image and receive:
 ## Project Screenshots
 
 <p align="center">
-  <img src="./screenshots/home.png" width="850"/>
+  <img src="frontend/src/Screenshots/home.png" width="850"/>
 </p>
 
-<p align="center">
-  <img src="./screenshots/upload.png" width="850"/>
-</p>
 
 <p align="center">
   <img src="./screenshots/result.png" width="850"/>
